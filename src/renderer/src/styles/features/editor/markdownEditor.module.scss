@@ -1,3 +1,15 @@
 .wrapper {
   margin: 30px;
+  height: 900px;
+}
+
+.toolbar {
+  display: flex;
+  gap: 8px;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  gap: 4px; /* spanタグ間の余白 */
 }

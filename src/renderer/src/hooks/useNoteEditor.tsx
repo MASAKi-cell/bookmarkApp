@@ -15,6 +15,7 @@ export const useNoteEditor = () => {
   const editor = useRef<MDXEditorMethods>(null)
 
   const handleAutoSave = async (content: NoteContent): Promise<void> => {
+    console.log(content)
     if (!content) {
       return
     }

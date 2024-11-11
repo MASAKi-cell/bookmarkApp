@@ -1,13 +1,17 @@
 import styles from '@renderer/styles/features/editor/markdownEditor.module.scss'
 
-/** tMarkdown */
+/** Markdown */
 import {
   MDXEditor,
   headingsPlugin,
   listsPlugin,
   markdownShortcutPlugin,
   quotePlugin,
-  thematicBreakPlugin
+  thematicBreakPlugin,
+  UndoRedo,
+  BoldItalicUnderlineToggles,
+  toolbarPlugin,
+  BlockTypeSelect
 } from '@mdxeditor/editor'
 
 /** hooks  */
@@ -24,11 +28,11 @@ export const MarkdownEditor = (): JSX.Element => {
     <section>
       <MDXEditor
         ref={editor}
-        className={styles.wrapper}
         key={selectedNote ? selectedNote.title : ''}
         markdown={selectedNote?.content ? selectedNote.content : ''}
         onChange={onChange}
         onBlur={handleBlur}
+        contentEditableClassName={styles.wrapper}
         plugins={[
           headingsPlugin(),
           listsPlugin(),

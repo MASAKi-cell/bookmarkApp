@@ -1,4 +1,4 @@
-# Dooon
+# MemoSpark
 
 ![Untitled design](https://github.com/MASAKi-cell/Doon/assets/74603325/b8e43b89-5635-4647-8af1-0187cee4b25d)
 
@@ -26,6 +26,7 @@
 | sqlite3 | 5.1.7 | 
 | React | 18.2.0 | 
 | typescript | 5.3.3 | 
+| jotai | 2.8.0 |
 
 
 

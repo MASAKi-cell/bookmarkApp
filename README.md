@@ -3,41 +3,47 @@
 ![Untitled design](https://github.com/MASAKi-cell/Doon/assets/74603325/b8e43b89-5635-4647-8af1-0187cee4b25d)
 
 
-<br>
+<br><br>
 
 # Usage
 
 
 
-<br>
+<br><br>
 
 # Screenshots
 
 
 
-<br>
+<br><br>
 
 # Version
 
-- TensorFlow	2.13.0
-- TensorFlow Lite	3.0
-- Keras	2.13.1
-- OpenCV	4.7.0
-- Python	3.11.3
+| library・language | version | 
+| ---- | ---- | 
+| Electron | 3.0.0 | 
+| TypeORM | 0.3.20 | 
+| sqlite3 | 5.1.7 | 
+| React | 18.2.0 | 
+| typescript | 5.3.3 | 
 
-<br>
+
+
+<br><br>
 
 # Features
 
 
 
-<br>
+<br><br>
 
 # Article
 
-- https://zenn.dev/arsaga/articles/7a82079640542e <br>
+[React × Electron × TypeORMで作成するMarkdownアプリ ~ バックエンド編 ~](https://zenn.dev/arsaga/articles/9b5c3619913ac1) <br>
 
-<br>
+
+
+<br><br>
 
 # Project Setup
 

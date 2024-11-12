@@ -7,11 +7,7 @@ import {
   listsPlugin,
   markdownShortcutPlugin,
   quotePlugin,
-  thematicBreakPlugin,
-  UndoRedo,
-  BoldItalicUnderlineToggles,
-  toolbarPlugin,
-  BlockTypeSelect
+  thematicBreakPlugin
 } from '@mdxeditor/editor'
 
 /** hooks  */

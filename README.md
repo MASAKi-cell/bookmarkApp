@@ -1,12 +1,14 @@
 # MemoSpark
 
-![Untitled design](https://github.com/MASAKi-cell/Doon/assets/74603325/b8e43b89-5635-4647-8af1-0187cee4b25d)
 
+![facebook_cover_photo_2](https://github.com/user-attachments/assets/8e8deadf-d411-45b8-9afa-fe06ff25aaa7)
 
 
 <br><br>
 
 # Screenshots
+
+<img width="1723" alt="スクリーンショット 2024-11-12 10 01 21" src="https://github.com/user-attachments/assets/03438b37-f3bd-47a0-87ca-2c8390becd69">
 
 https://github.com/user-attachments/assets/22e44e90-c89f-4003-bc38-85fabc01fea1
 

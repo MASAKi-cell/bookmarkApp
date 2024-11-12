@@ -3,15 +3,43 @@
 ![Untitled design](https://github.com/MASAKi-cell/Doon/assets/74603325/b8e43b89-5635-4647-8af1-0187cee4b25d)
 
 
+<br>
+
+# Usage
 
 
-Noot book App
 
-## Recommended IDE Setup
+<br>
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+# Screenshots
 
-## Project Setup
+
+
+<br>
+
+# Version
+
+- TensorFlow	2.13.0
+- TensorFlow Lite	3.0
+- Keras	2.13.1
+- OpenCV	4.7.0
+- Python	3.11.3
+
+<br>
+
+# Features
+
+
+
+<br>
+
+# Article
+
+- https://zenn.dev/arsaga/articles/7a82079640542e <br>
+
+<br>
+
+# Project Setup
 
 ### Install
 

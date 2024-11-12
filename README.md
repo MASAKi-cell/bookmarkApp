@@ -3,15 +3,12 @@
 ![Untitled design](https://github.com/MASAKi-cell/Doon/assets/74603325/b8e43b89-5635-4647-8af1-0187cee4b25d)
 
 
-<br><br>
-
-# Usage
-
-
 
 <br><br>
 
 # Screenshots
+
+https://github.com/user-attachments/assets/22e44e90-c89f-4003-bc38-85fabc01fea1
 
 
 
@@ -40,7 +37,7 @@
 
 # Article
 
-[React × Electron × TypeORMで作成するMarkdownアプリ ~ バックエンド編 ~](https://zenn.dev/arsaga/articles/9b5c3619913ac1) <br>
+1. [React × Electron × TypeORMで作成するMarkdownアプリ ~ バックエンド編 ~](https://zenn.dev/arsaga/articles/9b5c3619913ac1) <br>
 
 
 

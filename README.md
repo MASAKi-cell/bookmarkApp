@@ -4,9 +4,14 @@
 ![facebook_cover_photo_2](https://github.com/user-attachments/assets/8e8deadf-d411-45b8-9afa-fe06ff25aaa7)
 
 
+# アプリ概要
+
+マークダウンアプリです。
+
+
 <br><br>
 
-# Screenshots
+# イメージ
 
 <img width="1723" alt="スクリーンショット 2024-11-12 10 01 21" src="https://github.com/user-attachments/assets/03438b37-f3bd-47a0-87ca-2c8390becd69">
 
@@ -16,7 +21,15 @@ https://github.com/user-attachments/assets/22e44e90-c89f-4003-bc38-85fabc01fea1
 
 <br><br>
 
-# Version
+# 使用技術
+
+
+
+
+
+<br><br>
+
+# バージョン情報
 
 | library・language | version | 
 | ---- | ---- | 
@@ -31,21 +44,7 @@ https://github.com/user-attachments/assets/22e44e90-c89f-4003-bc38-85fabc01fea1
 
 <br><br>
 
-# Features
-
-
-
-<br><br>
-
-# Article
-
-1. [React × Electron × TypeORMで作成するMarkdownアプリ ~ バックエンド編 ~](https://zenn.dev/arsaga/articles/9b5c3619913ac1) <br>
-
-
-
-<br><br>
-
-# Project Setup
+# セットアップ
 
 ### Install
 
@@ -71,3 +70,15 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+
+
+<br><br>
+
+# 関連記事
+
+1. [React × Electron × TypeORMで作成するMarkdownアプリ ~ バックエンド編 ~](https://zenn.dev/arsaga/articles/9b5c3619913ac1) <br>
+
+
+
+<br><br>
+

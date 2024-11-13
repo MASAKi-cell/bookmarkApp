@@ -6,7 +6,7 @@
 
 # アプリ概要
 
-マークダウンアプリです。
+Electronで作成したデスクトップマークダウンアプリです。
 
 
 <br><br>
@@ -23,7 +23,13 @@ https://github.com/user-attachments/assets/22e44e90-c89f-4003-bc38-85fabc01fea1
 
 # 使用技術
 
-
+| Category | Technology Stack | 
+| ---- | ---- | 
+| Frontend | React, Electron,TypeScript, Jotai| 
+| Backend | Electron, TypeScript, TypeORM | 
+| DataBase | SQLite | 
+| CI/CD | Github Action | 
+| etc | ESlint, Prettier, StyleLint | 
 
 
 
@@ -37,8 +43,9 @@ https://github.com/user-attachments/assets/22e44e90-c89f-4003-bc38-85fabc01fea1
 | TypeORM | 0.3.20 | 
 | sqlite3 | 5.1.7 | 
 | React | 18.2.0 | 
-| typescript | 5.3.3 | 
 | jotai | 2.8.0 |
+| typescript | 5.3.3 | 
+
 
 
 
@@ -80,5 +87,4 @@ $ npm run build:linux
 
 
 
-<br><br>
-
+<br>

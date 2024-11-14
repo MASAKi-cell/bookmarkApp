@@ -3,6 +3,7 @@
 
 ![facebook_cover_photo_2](https://github.com/user-attachments/assets/8e8deadf-d411-45b8-9afa-fe06ff25aaa7)
 
+<br><br>
 
 # アプリ概要
 

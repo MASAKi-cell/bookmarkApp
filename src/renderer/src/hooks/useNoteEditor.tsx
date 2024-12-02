@@ -15,7 +15,6 @@ export const useNoteEditor = () => {
   const editor = useRef<MDXEditorMethods>(null)
 
   const handleAutoSave = async (content: NoteContent): Promise<void> => {
-    console.log(content)
     if (!content) {
       return
     }
@@ -27,12 +26,13 @@ export const useNoteEditor = () => {
         content,
         lastEditTime: new Date()
       }
-      await window.electron.writeNote(changeNoteInfo)
+
       setTimeout(async () => {
         if (selectedNote) {
-          saveNote(), AUTE_SAVING_TIME
+          await window.electron.writeNote(changeNoteInfo)
+          saveNote()
         }
-      })
+      }, AUTE_SAVING_TIME)
     }
   }
 
